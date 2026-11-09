@@ -38,8 +38,8 @@ I design cloud systems that are **secure, scalable and a little bit lazy**, beca
 ## 🌐 Let's connect
 
 <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sharon-wainaina-556206395/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:wainainasharon15@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br>
 
