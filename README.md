@@ -101,12 +101,12 @@ I design cloud systems that are **secure, scalable and a little bit lazy**, beca
 
 <table>
   <tr>
-    <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=nvimah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvimah&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9" alt="Top languages" />
-    </td>
+    <td align="center"><img height="180" src="https://raw.githubusercontent.com/nvimah/nvimah/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" /></td>
+    <td align="center"><img height="180" src="https://raw.githubusercontent.com/nvimah/nvimah/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img height="180" src="https://raw.githubusercontent.com/nvimah/nvimah/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" /></td>
+    <td align="center"><img height="180" src="https://raw.githubusercontent.com/nvimah/nvimah/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top commit languages" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -114,16 +114,6 @@ I design cloud systems that are **secure, scalable and a little bit lazy**, beca
     </td>
   </tr>
 </table>
-
-<br>
-
-## 🏆 Trophy cabinet
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvimah&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" alt="Trophies" /></a>
-
-</div>
 
 <br>
 
