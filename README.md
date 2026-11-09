@@ -1,94 +1,133 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1f6feb,100:ff9900&text=Wainaina%20Sharon&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cloud%20%26%20Solutions%20Architect%20%E2%80%A2%20AWS%20%E2%80%A2%20OCI%20Certified&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner" />
+
 <a href="https://github.com/nvimah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Wainaina+Sharon;Cloud+%26+Solutions+Architect;AWS+%C2%B7+OCI+Certified;AWS+%C3%97+ServiceNow+integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF9900&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Turning+whiteboard+ideas+into+running+infrastructure;%F0%9F%94%97+Making+AWS+and+ServiceNow+talk+to+each+other;%F0%9F%94%90+Least+privilege+is+my+love+language;%F0%9F%A4%96+If+I+do+it+twice%2C+I+automate+it" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=nvimah&label=views&color=161b22&labelColor=0d1117&style=flat-square" alt="Profile views" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nvimah&label=Visitors+in+the+cloud&color=1f6feb&style=for-the-badge" alt="Visitors" />
 
 </div>
 
 <br>
 
-### About
+## 👋 Hey, I'm Sharon
 
-Solutions / Cloud Architect focused on **AWS**, OCI certified.
-Currently building **AWS and ServiceNow integrations**, connecting cloud infrastructure to IT service workflows.
-I care about secure IAM, observability, and automation through infrastructure as code.
+I design cloud systems that are **secure, scalable and a little bit lazy**, because the best infrastructure runs itself.
 
-### Connect
+☁️ **Solutions / Cloud Architect**, AWS first, **OCI certified**, with Azure fundamentals in the toolkit
+🔌 **Right now:** building **AWS ⇄ ServiceNow integrations** that connect cloud events to real service workflows
+🧠 **Mindset:** design it well, lock it down, monitor it, automate it, then document it
+💬 **Ask me about:** AWS architecture, IAM, Lambda, ServiceNow, CMDB, Terraform, n8n workflows
 
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=58a6ff" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
+> *"The cloud is just someone else's computer, but with better IAM policies."*
 
-### Stack
+<br>
+
+## 🎛️ Currently
+
+| 🔭 Working on | 🌱 Sharpening | 🎯 Open to |
+|:--|:--|:--|
+| AWS ⇄ ServiceNow integrations | Kubernetes, Terraform patterns | Cloud architecture projects and collaborations |
+
+<br>
+
+## 🌐 Let's connect
+
+<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br>
+
+## 🧰 My toolbox
 
 <table>
   <tr>
-    <th align="left">Cloud & DevOps</th>
-    <th align="left">Systems</th>
-    <th align="left">Automation & Code</th>
-    <th align="left">IT Service Platforms</th>
+    <th align="left">☁️ Cloud & DevOps</th>
+    <th align="left">🛡️ Systems</th>
+    <th align="left">⚙️ Automation & Code</th>
+    <th align="left">🧩 IT Service Platforms</th>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&labelColor=0d1117" /><br>
-      <img src="https://img.shields.io/badge/Oracle_Cloud-161b22?style=flat-square&labelColor=0d1117&logo=oracle&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/Azure_Fundamentals-161b22?style=flat-square&labelColor=0d1117" /><br>
-      <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&labelColor=0d1117&logo=docker&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&labelColor=0d1117&logo=kubernetes&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/Terraform-161b22?style=flat-square&labelColor=0d1117&logo=terraform&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/Tailscale-161b22?style=flat-square&labelColor=0d1117&logo=tailscale&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=232F3E&color=FF9900" /><br>
+      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Linux_Admin-161b22?style=flat-square&labelColor=0d1117&logo=linux&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/IAM-161b22?style=flat-square&labelColor=0d1117" /><br>
-      <img src="https://img.shields.io/badge/CloudWatch-161b22?style=flat-square&labelColor=0d1117" /><br>
-      <img src="https://img.shields.io/badge/Secrets_Manager-161b22?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/CloudWatch-E7157B?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge" />
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&labelColor=0d1117&logo=python&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/n8n-161b22?style=flat-square&labelColor=0d1117&logo=n8n&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/REST_APIs-161b22?style=flat-square&labelColor=0d1117" /><br>
-      <img src="https://img.shields.io/badge/Lambda-161b22?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logoColor=black" />
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/ServiceNow-161b22?style=flat-square&labelColor=0d1117&logo=servicenow&logoColor=58a6ff" /><br>
-      <img src="https://img.shields.io/badge/CMDB-161b22?style=flat-square&labelColor=0d1117" /><br>
-      <img src="https://img.shields.io/badge/Flow_Designer-161b22?style=flat-square&labelColor=0d1117" /><br>
-      <img src="https://img.shields.io/badge/Wrike-161b22?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/CMDB-293E40?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Flow_Designer-81B5A1?style=for-the-badge&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Wrike-08CF65?style=for-the-badge&logoColor=black" />
     </td>
   </tr>
 </table>
 
-### Activity
+<br>
+
+## 🏗️ How I think about architecture
+
+```text
+ design  ──▶  secure  ──▶  automate  ──▶  observe  ──▶  improve
+   │            │             │              │             │
+ AWS / OCI    IAM +       Terraform,      CloudWatch     repeat
+ patterns     Secrets     Lambda, n8n     + alerts       forever
+              Manager
+```
+
+<br>
+
+## 📊 Stats, but make it dashboard
 
 <table>
   <tr>
     <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=nvimah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" alt="GitHub stats" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=nvimah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
     </td>
     <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvimah&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvimah&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9" alt="Top languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=nvimah&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+      <img src="https://streak-stats.demolab.com?user=nvimah&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="Streak" />
     </td>
   </tr>
 </table>
 
-### Trophies
+<br>
+
+## 🏆 Trophy cabinet
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvimah&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" alt="Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvimah&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" alt="Trophies" /></a>
 
 </div>
 
-### Contributions
+<br>
+
+## 🐍 Snake eating my commits
 
 <div align="center">
 
@@ -96,7 +135,19 @@ I care about secure IAM, observability, and automation through infrastructure as
 
 </div>
 
-### Latest writing
+<br>
+
+## ✍️ Fresh off the keyboard
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:ff9900,50:1f6feb,100:0d1117&section=footer&reversal=true" alt="Footer" />
+
+*Built on AWS, powered by coffee, secured by least privilege.* ☕🔐
+
+</div>
