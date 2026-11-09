@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1f6feb,100:ff9900&text=Wainaina%20Sharon&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cloud%20%26%20Solutions%20Architect%20%E2%80%A2%20AWS%20%E2%80%A2%20OCI%20Certified&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner" />
+<img src="https://raw.githubusercontent.com/nvimah/nvimah/main/assets/banner.svg" alt="Wainaina Sharon - Cloud & Solutions Architect" width="100%" />
 
 <a href="https://github.com/nvimah">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF9900&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Turning+whiteboard+ideas+into+running+infrastructure;%F0%9F%94%97+Making+AWS+and+ServiceNow+talk+to+each+other;%F0%9F%94%90+Least+privilege+is+my+love+language;%F0%9F%A4%96+If+I+do+it+twice%2C+I+automate+it" alt="Typing SVG" />
@@ -145,8 +145,6 @@ I design cloud systems that are **secure, scalable and a little bit lazy**, beca
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:ff9900,50:1f6feb,100:0d1117&section=footer&reversal=true" alt="Footer" />
 
 *Built on AWS, powered by coffee, secured by least privilege.* ☕🔐
 
